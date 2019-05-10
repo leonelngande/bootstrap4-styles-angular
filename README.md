@@ -1,6 +1,6 @@
 # Bootstrap4StylesAngular
 
-[Demo](https://www.google.com "Demo application")
+## [Demo](https://www.google.com "Demo application")
 
 This project was generated with [Angular CLI](https://leonelngande.github.io/bootstrap4-styles-angular/) version 7.3.8.
 
