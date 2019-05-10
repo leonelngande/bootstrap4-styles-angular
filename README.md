@@ -1,4 +1,4 @@
-# Bootstrap4StylesAngular
+# Bootstrap 4 Styles Angular
 
 ## [Demo](https://leonelngande.github.io/bootstrap4-styles-angular/ "Demo application")
 
